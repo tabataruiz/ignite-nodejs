@@ -1,0 +1,11 @@
+{
+  "name": "ignite-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tabataruiz/ignite-nodejs.git",
+  "author": "Tabata Ruiz <tabata.ruiz@rhsoftware.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
